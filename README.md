@@ -26,3 +26,5 @@ Exception class.
 After exiting the program, all used memory and vectors are freed to prevent
 memory leakage. There are destructors in both the Event and Participant class,
 which clears vectors and other information.
+
+[View the full report here](https://github.com/angeladev333/CW-Event-Registry/blob/main/2021%20-%20CW%20Passport%20Registry%20Report.pdf)
